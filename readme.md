@@ -7,6 +7,7 @@
 - Пробки трафика - [Ссылка](https://stmods.org/euro_truck_simulator_2/mods/real_traffic_density_by_cipinho_for_ets2/)
 - Новые прицепы + грузы - [Ссылка](https://stmods.org/euro_truck_simulator_2/mods/trailers_and_cargo_pack_v4_4_1_by_jazzycat_for_euro_truck_simulator_2_v1_25_1_26/)
 - Полное обновление трафика - [Ссылка](https://stmods.org/euro_truck_simulator_2/mods/ai_traffic_pack_v4_2_by_jazzycat_for_euro_truck_simulator_2_v1_26_x/)
+- Еще машины - [Ссылка](https://stmods.org/american_truck_simulator/mods/ai_traffic_pack_by_jazzycat_for_ats/)
 - Добавляет автобусы в трафик - [Ссылка](https://stmods.org/euro_truck_simulator_2/mods/bus_traffic_pack_v1_6_by_jazzycat_for_euro_truck_simulator_2_v1_26_x/)
 - Добавляет грузовики в трафик - [Ссылка](https://stmods.org/euro_truck_simulator_2/mods/truck_traffic_pack_v2_4_by_jazzycat_for_euro_truck_simulator_2_v1_26_x/)
 - Добавляет BMW трафик - [Cсылка](https://www.playground.ru/euro_truck_simulator_2/file/euro_truck_simulator_2_bmw_trafik_pak_1_44_genotip71-1174493)

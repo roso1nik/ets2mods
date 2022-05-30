@@ -27,7 +27,7 @@
 - Гелик - [Ссылка](https://stmods.org/euro_truck_simulator_2/mods/mercedes_benz_g65_gelendvagen_v2_0_by_elaman_for_euro_truck_simulator_2_v1_25_1_26_x/)
 - M5 F90 - [Ссылка](https://stmods.org/euro_truck_simulator_2/mods/bmw_m5_f90_by_buraktuna24_for_ets2/)
 - е63 - [Ссылка](https://stmods.org/euro_truck_simulator_2/mods/mercedes_benz_e63_amg_by_azorax_modding_for_ets2/)
-- Lamborghini Aventador SVJ - [Ссылка](https://www.playground.ru/euro_truck_simulator_2/file/euro_truck_simulator_2_lamborghini_aventador_svj_2018_1_44-1165019)
+- Lamborghini Aventador SVJ - [Ссылка](https://stmods.org/euro_truck_simulator_2/mods/lamborghini_aventador_svj_2018_by_mert_ir_i_for_ets2/)
 - Volkswagen Golf 8 - [Ссылка](https://www.playground.ru/euro_truck_simulator_2/file/euro_truck_simulator_2_volkswagen_golf_8_1_44-1211514)
 - Range Rover Startech 2018 - [Ссылка](https://www.playground.ru/euro_truck_simulator_2/file/euro_truck_simulator_2_range_rover_startech_2018_1_44-1168816)
 - BMW M5 Touring - [Ссылка](https://www.playground.ru/euro_truck_simulator_2/file/euro_truck_simulator_2_bmw_m5_touring_1_44-1173072)

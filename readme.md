@@ -19,7 +19,7 @@
 - Россия(Сибирь) - [Ссылка](https://stmods.org/euro_truck_simulator_2/mods/karta_sibiri_sibirmap_by_10avoid_for_ets2/)
 - Румыния(улучшение) - [Ссылка](https://stmods.org/euro_truck_simulator_2/mods/romania_extended_map_full_42_cities_by_arayas_for_ets2/)
 - Южная Америка ```(EAA)```- [Ссылка](https://stmods.org/euro_truck_simulator_2/mods/karta_brazilii_eaa_by_eaa_team_for_ets2/)
-- Венгрия(только как отдельный профиль/масштаб 1:3 - [Ссылка](https://stmods.org/euro_truck_simulator_2/mods/fiks_dlya_karty_vengrii_v0_9_28a_by_indian56_for_ets2/)
+- Венгрия(только как отдельный профиль/масштаб 1:3) - [Ссылка](https://stmods.org/euro_truck_simulator_2/mods/fiks_dlya_karty_vengrii_v0_9_28a_by_indian56_for_ets2/)
 - FSG Map (только как отдельный профиль/масштаб 1:1) Европа - [Ссылка](https://stmods.org/euro_truck_simulator_2/mods/fsg_map_by_farmer_s_tv_for_ets2/)
 
 ### _Машины_
